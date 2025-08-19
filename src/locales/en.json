@@ -1,0 +1,112 @@
+{
+  "common": {
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "required": "Required",
+    "optional": "Optional",
+    "select": "Select",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "registration": {
+    "navigation": {
+      "personalAccount": "Personal Account",
+      "jointAccount": "Joint Account",
+      "previous": "Previous",
+      "next": "Next",
+      "languageSwitch": "Passer en Français"
+    },
+    "steps": {
+      "personalInfo": "Personal Information",
+      "contactInfo": "Contact Information",
+      "professionalInfo": "Professional Information",
+      "emergencyContacts": "Emergency Contacts",
+      "accountTypes": "Account Types",
+      "signature": "Signature",
+      "accountType": "Account Type",
+      "holder1Info": "Co-holder 1",
+      "holder2Info": "Co-holder 2",
+      "signatures": "Signatures"
+    },
+    "fields": {
+      "fullName": "Full Name",
+      "birthDate": "Date of Birth",
+      "birthPlace": "Place of Birth",
+      "nationality": "Nationality",
+      "resident": "Resident",
+      "ppe": "PPE",
+      "idNumber": "ID Number",
+      "idIssuer": "Issuer",
+      "idDate": "Issue Date",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "city": "City/Neighborhood",
+      "profession": "Profession",
+      "employer": "Employer",
+      "maritalStatus": "Marital Status",
+      "children": "Number of Children",
+      "salary": "Salary",
+      "contact1": "Emergency Contact 1",
+      "contact2": "Emergency Contact 2",
+      "contactName": "Name",
+      "contactPhone": "Phone",
+      "contactEmail": "Email",
+      "contactRelation": "Relation",
+      "selectAccountTypes": "Select the desired account types:",
+      "signature": "Signature",
+      "signatureInstruction": "Sign in the area above",
+      "acceptTerms": "I accept the terms and conditions",
+      "accountType": "Account Type",
+      "signatureType": "Signature Type",
+      "holder1Name": "Co-holder 1 Name",
+      "holder1Phone": "Co-holder 1 Phone",
+      "holder1Niu": "Co-holder 1 NIU",
+      "holder1Email": "Co-holder 1 Email",
+      "holder1Address": "Co-holder 1 Address",
+      "holder1Profession": "Co-holder 1 Profession",
+      "holder1Employer": "Co-holder 1 Employer",
+      "holder1IdNumber": "Co-holder 1 ID Number",
+      "holder1IdIssuer": "Co-holder 1 Issuer",
+      "holder1IdDate": "Co-holder 1 Issue Date",
+      "holder2Name": "Co-holder 2 Name",
+      "holder2Phone": "Co-holder 2 Phone",
+      "holder2Niu": "Co-holder 2 NIU",
+      "holder2Email": "Co-holder 2 Email",
+      "holder2Address": "Co-holder 2 Address",
+      "holder2Profession": "Co-holder 2 Profession",
+      "holder2Employer": "Co-holder 2 Employer",
+      "holder2IdNumber": "Co-holder 2 ID Number",
+      "holder2IdIssuer": "Co-holder 2 Issuer",
+      "holder2IdDate": "Co-holder 2 Issue Date",
+      "signature1": "Co-holder 1 Signature",
+      "signature2": "Co-holder 2 Signature",
+      "declaration": "I declare that the information provided is accurate",
+      "terms1Accepted": "Co-holder 1 accepts the terms and conditions",
+      "terms2Accepted": "Co-holder 2 accepts the terms and conditions"
+    },
+    "accountTypes": {
+      "epargne": "Savings Account",
+      "courant": "Current Account",
+      "ndjangui": "N'Djangui Account",
+      "cheque": "Check Account",
+      "placement": "Investment Account"
+    },
+    "jointAccountTypes": {
+      "jointOr": "Joint Account OR",
+      "jointAnd": "Joint Account AND"
+    },
+    "signatureTypes": {
+      "individual": "Individual Signature",
+      "joint": "Joint Signature"
+    },
+    "maritalStatus": {
+      "single": "Single",
+      "married": "Married",
+      "divorced": "Divorced",
+      "widowed": "Widowed"
+    }
+  }
+}

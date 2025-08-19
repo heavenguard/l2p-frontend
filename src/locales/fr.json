@@ -1,0 +1,112 @@
+{
+  "common": {
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "submitting": "Soumission...",
+    "required": "Obligatoire",
+    "optional": "Optionnel",
+    "select": "Sélectionner",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "registration": {
+    "navigation": {
+      "personalAccount": "Compte Personnel",
+      "jointAccount": "Compte Joint",
+      "previous": "Précédent",
+      "next": "Suivant",
+      "languageSwitch": "Switch to English"
+    },
+    "steps": {
+      "personalInfo": "Informations Personnelles",
+      "contactInfo": "Informations de Contact",
+      "professionalInfo": "Informations Professionnelles",
+      "emergencyContacts": "Contacts d'Urgence",
+      "accountTypes": "Types de Comptes",
+      "signature": "Signature",
+      "accountType": "Type de Compte",
+      "holder1Info": "Cotitulaire 1",
+      "holder2Info": "Cotitulaire 2",
+      "signatures": "Signatures"
+    },
+    "fields": {
+      "fullName": "Noms et Prénoms",
+      "birthDate": "Date de Naissance",
+      "birthPlace": "Lieu de Naissance",
+      "nationality": "Nationalité",
+      "resident": "Résident",
+      "ppe": "PPE",
+      "idNumber": "Numéro d'Identité",
+      "idIssuer": "Émetteur",
+      "idDate": "Date d'Émission",
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "city": "Ville/Quartier",
+      "profession": "Profession",
+      "employer": "Employeur",
+      "maritalStatus": "État Civil",
+      "children": "Nombre d'Enfants",
+      "salary": "Salaire",
+      "contact1": "Contact d'Urgence 1",
+      "contact2": "Contact d'Urgence 2",
+      "contactName": "Nom",
+      "contactPhone": "Téléphone",
+      "contactEmail": "Email",
+      "contactRelation": "Relation",
+      "selectAccountTypes": "Sélectionnez les types de comptes souhaités:",
+      "signature": "Signature",
+      "signatureInstruction": "Signez dans la zone ci-dessus",
+      "acceptTerms": "J'accepte les termes et conditions",
+      "accountType": "Type de Compte",
+      "signatureType": "Type de Signature",
+      "holder1Name": "Nom Cotitulaire 1",
+      "holder1Phone": "Téléphone Cotitulaire 1",
+      "holder1Niu": "NIU Cotitulaire 1",
+      "holder1Email": "Email Cotitulaire 1",
+      "holder1Address": "Adresse Cotitulaire 1",
+      "holder1Profession": "Profession Cotitulaire 1",
+      "holder1Employer": "Employeur Cotitulaire 1",
+      "holder1IdNumber": "N° Identité Cotitulaire 1",
+      "holder1IdIssuer": "Émetteur Cotitulaire 1",
+      "holder1IdDate": "Date Émission Cotitulaire 1",
+      "holder2Name": "Nom Cotitulaire 2",
+      "holder2Phone": "Téléphone Cotitulaire 2",
+      "holder2Niu": "NIU Cotitulaire 2",
+      "holder2Email": "Email Cotitulaire 2",
+      "holder2Address": "Adresse Cotitulaire 2",
+      "holder2Profession": "Profession Cotitulaire 2",
+      "holder2Employer": "Employeur Cotitulaire 2",
+      "holder2IdNumber": "N° Identité Cotitulaire 2",
+      "holder2IdIssuer": "Émetteur Cotitulaire 2",
+      "holder2IdDate": "Date Émission Cotitulaire 2",
+      "signature1": "Signature Cotitulaire 1",
+      "signature2": "Signature Cotitulaire 2",
+      "declaration": "Je déclare que les informations fournies sont exactes",
+      "terms1Accepted": "Cotitulaire 1 accepte les termes et conditions",
+      "terms2Accepted": "Cotitulaire 2 accepte les termes et conditions"
+    },
+    "accountTypes": {
+      "epargne": "Compte Épargne",
+      "courant": "Compte Courant",
+      "ndjangui": "Compte N'Djangui",
+      "cheque": "Compte Chèque",
+      "placement": "Compte Placement"
+    },
+    "jointAccountTypes": {
+      "jointOr": "Compte Joint OU",
+      "jointAnd": "Compte Joint ET"
+    },
+    "signatureTypes": {
+      "individual": "Signature Individuelle",
+      "joint": "Signature Conjointe"
+    },
+    "maritalStatus": {
+      "single": "Célibataire",
+      "married": "Marié(e)",
+      "divorced": "Divorcé(e)",
+      "widowed": "Veuf/Veuve"
+    }
+  }
+}
